@@ -1,0 +1,19 @@
+{
+  "name": "pi-aihubmix-discover",
+  "version": "1.0.0",
+  "description": "The AiHubMix provider extension for the Pi Coding Agent",
+  "type": "module",
+  "main": "extension.js",
+  "keywords": ["pi-package", "pi", "pi-coding-agent", "pi-extensions", "aihubmix", "openai-compatible", "models"],
+  "license": "MIT",
+  "peerDependencies": {
+    "@earendil-works/pi-coding-agent": "*"
+  },
+  "pi": {
+    "extensions": ["./extension.js"]
+  },
+  "files": [
+    "extension.js",
+    "README.md"
+  ]
+}
