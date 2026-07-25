@@ -22,7 +22,7 @@ Run from within PI
 ```
 
 On first run, you'll be prompted for your AiHubMix API key. Models are discovered and registered automatically.
--
+
 To change the key later, use `/login` -- aihubmix will be listed.
 
 ## Commands
