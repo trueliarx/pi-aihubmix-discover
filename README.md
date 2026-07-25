@@ -1,6 +1,7 @@
 # pi-aihubmix-discover
 
 AiHubMix provider extension for the Pi Coding Agent.
+(**Adds the AiHubMix provider and the models in PI client)
 
 ## Install
 
